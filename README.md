@@ -3,8 +3,8 @@ Web page that uses my implementation of [Apache DbUtils](https://github.com/Vann
 
 ## How to run it
 1. Download the repository;
-2. Run the database.sql script;
-3. Run ``` docker build -t web_page_sw_dependability.jar . ```;
+2. Run the ``` database.sql ``` script;
+3. From cmd of project location run ``` docker build -t web_page_sw_dependability.jar . ```;
 4. Run the container.
 
 At the end you should get something like this:
